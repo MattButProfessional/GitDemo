@@ -1,4 +1,5 @@
 print("Git/Github Demo")
 # comment
-print("Hello from the remote repo")
-print("Hello from the local repo")
+print("Hello from the remote repo 2")
+print("Hello from the local repo 3")
+print("Hey local, you ain't so tough")
